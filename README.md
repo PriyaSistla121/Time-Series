@@ -1,6 +1,6 @@
 ## Time-Series
 ## Project Overview
-* This project builds Time Series model using Facebook prophit algorithm.
+* This project builds Time Series model using Facebook Prophit algorithm.
 * The dataset includes confirmed cases, recoveries, and deaths across different regions, enabling data-driven insights into pandemic progression.
 * The model is trained on the historical covid cases data to forecast patterns.
 ## Features
